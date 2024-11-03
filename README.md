@@ -1,6 +1,16 @@
-# RandomGenerator
-A random number generator with custom structures
+# UniGen - Universal Number Generator
 
-Additions:
-- Random Password Generator with ability to fix length and opt out form certain symbols
-- use default number structure like debit card, ssn etc for generation 
+A versatile and configurable number generator that allows custom configurations, pattern filtering, and character exclusions. Perfect for generating sequences, random numbers, and custom number patterns with specific constraints.
+
+## 🎯 Planed Features
+
+- Multiple generation modes:
+  - Random numbers
+  - Sequential patterns
+  - Custom ranges
+  - Specific digit patterns
+- Character filtering system
+- Custom configuration profiles
+- Batch generation support
+- Export/Import configurations
+- Real-time preview
